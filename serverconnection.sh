@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# SSH Connection Menu Script with Friendly Names
+# SSH Connection Menu Script
 
-# Define your server details
+# Define server details
 declare -A servers=(
     ["1"]="Raspberry Pi:pi@192.168.0.154"
     ["2"]="Ubuntu Server:cybertobbe@192.168.0.5"
